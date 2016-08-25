@@ -24,3 +24,4 @@ ___Completando la función___
 6. SUMAR DOS NUMEROS "NUMERO1" Y "NUMERO2"		
 7. IMPRIMIR RESULTADO		
 8. FIN		
+![alt text](http://i67.tinypic.com/6dtnro.jpg )
